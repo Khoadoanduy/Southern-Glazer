@@ -13,5 +13,6 @@ tailwind.config.js
 *.pyc
 .env
 notebooks/
+*.ipynb
 
 
